@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\bin\Debug\net6.0\HelloConsole.exe
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\bin\Debug\net6.0\HelloConsole.deps.json
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\bin\Debug\net6.0\HelloConsole.runtimeconfig.json
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\bin\Debug\net6.0\HelloConsole.dll
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\bin\Debug\net6.0\HelloConsole.pdb
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfo.cs
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.dll
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\refint\HelloConsole.dll
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.pdb
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\HelloConsole.genruntimeconfig.cache
+C:\Users\Anna\Desktop\обучение\_видео\3.1-3.8 Знакомство с языками програмирования\1. C Sharp\HelloConsole\obj\Debug\net6.0\ref\HelloConsole.dll
